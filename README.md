@@ -1,50 +1,76 @@
-# Welcome to [Astro](https://astro.build)
+# `print("hi, i'm seokku")`
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)
+## who i'm i
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+I'm an hobbist software developer. I especially have skills in building backend apps written in `JavaScript` and `Python`.
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+## my knowledge
+
+As written above, I especially have skills building backend apps written in JavaScript and Python. Also I have knowledge building frontend apps with `HTML/CSS/JavaScript` and with frameworks like `ReactJS` and `Astro`.
+
+### programming languages that i 💟
+
+- JavaScript
+- TypeScript
+- Python
+- Dart
+
+### frameworks that i 💟
+
+- JavaScript:
+  - For Backend
+    - ExpressJS
+    - NestJS
+    - ApolloGraphQL
+  - For Frontend
+    - ReactJS
+    - Astro
+    - SvelteJS
+- Python
+  - Django
+  - Flask
+  - StrawberryGraphQL
+  - Tensorflow `// but just for hobby`
+- Dart
+  - Flutter
+
+## what you will find on this profile
+
+Here are many repositories, but which the most important repos, for me are:
+
+<!-- TODO: Add images -->
+
+### [Random Cat Bot](https://github.com/seokkuuu/RandomCatBot)
+
+This repo is a **Facebook Bot** that uploads an image of a cat every 20 minutes. It's built using Python and my own **Facebook API Library** shown below.
+
+### [Python Easy Facebook API](https://github.com/seokkuuu/python_easy_facebook_api)
+
+This repo it's a minimal library for content creation automation on Facebook using Python. It has, for now few features, like create only text posts, image posts and text with image posts, but in the future, I will add more features.
+
+### [MomoMaker](https://github.com/seokkuuu/momogen.cf)
+
+This is just an site to create "momos" (memes) built in ReactJS. I'm currently working on this page to bring more templates and improve the performance, separating the image editing code to the backend, and bring a live image preview with a better UI.
+
+## contact
+
+### social networks
+
+My social networks are:
+
+- Of course [This Github Profile](https://github.com/seokkuuu)
+- My public [Facebook Profile](https://facebook.com/seokkuuu) (anything of this profile matters, this is just for fun, but you can follow me 😉)
+
+### work email
+
+note: the email is not current working :v XD, for now, contact me by messenger.
+
+You can send me a message to my [business email](mailto:business@seokku.tk), but it's important that follows the following rules.
+
+- It must have a short and concise subject.
+
+- The body must be concise and straight to the point.
+
+- Just email for work. **Please, don't send spam or trash, for example, promoting an product / service / malicious content or anything like that.**
 
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `npm install`          | Installs dependencies                              |
-| `npm run dev`          | Starts local dev server at `localhost:3000`        |
-| `npm run build`        | Build your production site to `./dist/`            |
-| `npm run preview`      | Preview your build locally, before deploying       |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
-| `npm run astro --help` | Get help using the Astro CLI                       |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
