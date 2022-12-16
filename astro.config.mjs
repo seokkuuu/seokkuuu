@@ -11,5 +11,7 @@ import alpinejs from "@astrojs/alpinejs";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind(), image(), alpinejs()]
+  integrations: [tailwind(), image(), alpinejs()],
+  site: 'https://seokkuuu.github.io',
+  base: '/seokkuuu',
 });
